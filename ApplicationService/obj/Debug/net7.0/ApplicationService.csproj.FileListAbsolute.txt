@@ -1,0 +1,15 @@
+D:\Session\Code\ApplicationService\bin\Debug\net7.0\ApplicationService.deps.json
+D:\Session\Code\ApplicationService\bin\Debug\net7.0\ApplicationService.dll
+D:\Session\Code\ApplicationService\bin\Debug\net7.0\ApplicationService.pdb
+D:\Session\Code\ApplicationService\bin\Debug\net7.0\Rpositories.dll
+D:\Session\Code\ApplicationService\bin\Debug\net7.0\Rpositories.pdb
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.csproj.AssemblyReference.cache
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.AssemblyInfoInputs.cache
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.AssemblyInfo.cs
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.csproj.CoreCompileInputs.cache
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.csproj.CopyComplete
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.dll
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\refint\ApplicationService.dll
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ApplicationService.pdb
+D:\Session\Code\ApplicationService\obj\Debug\net7.0\ref\ApplicationService.dll
